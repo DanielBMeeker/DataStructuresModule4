@@ -8,7 +8,7 @@ into postfix expressions.
 
 Because there is not a builtin Stack library I installed one
 in my pycharms so the program requires pythonds installed
-to run. 
+to run.
 
 Academic Honesty: I attest that this is my original work.
 I have not used unauthorized source code, either modified or
